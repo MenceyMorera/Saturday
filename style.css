@@ -1,0 +1,18 @@
+
+body { 
+  background: url(colouring.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  flex-wrap: wrap;
+}
+
+.jumbotron{
+	background-color: rgba(80,78,81,.10);
+	margin-left: 200px;
+	margin-right: 200px;
+	text-align: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
